@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:6DB33F&height=200&section=header&text=Anoop%20Pande&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%40%20SAP%20Labs%20India&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Distributed+Systems+Engineer;SAP+Ariba+%7C+SAP+SuccessFactors+%7C+SAP+CAP;M.Tech+CS+%40+BITS+Pilani+%282024%E2%80%932026%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Distributed+Systems+Engineer;SAP+Ariba+%7C+SAP+SuccessFactors;M.Tech+CS+%40+BITS+Pilani+%282024%E2%80%932026%29" alt="Typing SVG" />
 
 <br/>
 
@@ -74,13 +74,6 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 ![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-**DSA & Problem Solving**
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Data_Structures-8B0000?style=for-the-badge&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge&logoColor=white)
-![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-6A0DAD?style=for-the-badge&logoColor=white)
 
 **Tools**
 
