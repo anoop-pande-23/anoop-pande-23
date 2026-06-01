@@ -88,8 +88,8 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anoop-pande-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0FAAFF&icon_color=6DB33F&text_color=ffffff" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pande-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FAAFF&text_color=ffffff&langs_count=8" height="180px"/>
+![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoop-pande-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pande-23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
