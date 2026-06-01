@@ -84,6 +84,16 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anoop-pande-23&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FAAFF&ring=6DB33F&fire=FF6F00&currStreakLabel=0FAAFF&sideLabels=ffffff&dates=ffffff" width="60%"/>
+
+</div>
+
+---
+
 ## Activity Graph
 
 <div align="center">
