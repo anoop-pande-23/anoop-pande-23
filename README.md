@@ -39,6 +39,7 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| **SolveStack** | Full-stack DSA preparation platform with pattern-wise problem tracking, multi-language solutions, LeetCode + CodeForces auto-fetch, company-wise questions, and analytics | `Spring Boot` `React` `PostgreSQL` `JWT` `Vite` |
 | **Campus Connect** | Distributed campus communication platform with real-time messaging and microservices over Kafka | `Microservices` `GraphQL` `Apache Kafka` `WebSockets` |
 | **MediConnect** | Secure healthcare API platform with patient-doctor connectivity and appointment management | `Spring Boot` `JWT` `REST APIs` `MySQL` |
 | **Decentralized SCM** | Blockchain-based supply chain management with tamper-proof transaction records and smart contracts | `Smart Contracts` `SHA-256` `JWT` `MongoDB` |
@@ -53,6 +54,7 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
