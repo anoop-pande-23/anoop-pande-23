@@ -79,29 +79,6 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoop-pande-23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pande-23&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anoop-pande-23&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Education
-
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| M.Tech — Computer Software Engineering | BITS Pilani | 2024 – 2026 | 7.60 |
-| B.Tech — Computer Engineering | PCCE Pune | 2021 – 2024 | 8.23 |
-
----
-
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
