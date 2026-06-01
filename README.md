@@ -112,16 +112,6 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anoop-pande-23&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
