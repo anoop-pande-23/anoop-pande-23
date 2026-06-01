@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hey, I'm Anoop Pande 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FAAFF,100:6DB33F&height=200&section=header&text=Anoop%20Pande&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%40%20SAP%20Labs%20India&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Associate Software Engineer @ SAP Labs India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Distributed+Systems+Engineer;SAP+Ariba+%7C+SAP+SuccessFactors+%7C+SAP+CAP;M.Tech+CS+%40+BITS+Pilani+%282024%E2%80%932026%29" alt="Typing SVG" />
 
-Backend engineer who turns complex distributed systems into elegant solutions — one microservice at a time.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anoop-pande-001906236)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pande.app20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anoop-pande-23)
+
+*Backend engineer who turns complex distributed systems into elegant solutions — one microservice at a time.*
 
 </div>
 
@@ -19,7 +21,7 @@ Backend engineer who turns complex distributed systems into elegant solutions �
 I'm currently an **Associate Software Engineer at SAP Labs India**, working at the intersection of enterprise-scale backend systems and real-world supply chain problems. By day, I'm deep in OData services and event-driven architectures on SAP Ariba and SuccessFactors. By night, I'm pushing commits on things that excite me.
 
 - 🏢 Working across **SAP Ariba SCM BN** and **SAP SuccessFactors Employee Central**
-- 🎓 Pursuing **M.Tech in Computer Software Engineering** from **BITS Pilani** (2024–2026)
+- 🎓 Pursuing **M.Tech in Computer Software Engineering** from BITS Pilani (2024–2026)
 - 🛠️ Passionate about scalable backend systems, event-driven architectures, and distributed microservices
 - 🌱 Constantly exploring cloud-native and enterprise software patterns
 
@@ -38,38 +40,47 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Campus Connect** | Distributed campus communication platform with real-time messaging and microservices over Kafka | Microservices · GraphQL · Apache Kafka · WebSockets |
-| **MediConnect** | Secure healthcare API platform with patient-doctor connectivity and appointment management | Spring Boot · JWT · REST APIs · MySQL |
-| **Decentralized SCM** | Blockchain-based supply chain management with tamper-proof transaction records and smart contracts | Smart Contracts · SHA-256 · JWT · MongoDB |
+| **Campus Connect** | Distributed campus communication platform with real-time messaging and microservices over Kafka | `Microservices` `GraphQL` `Apache Kafka` `WebSockets` |
+| **MediConnect** | Secure healthcare API platform with patient-doctor connectivity and appointment management | `Spring Boot` `JWT` `REST APIs` `MySQL` |
+| **Decentralized SCM** | Blockchain-based supply chain management with tamper-proof transaction records and smart contracts | `Smart Contracts` `SHA-256` `JWT` `MongoDB` |
 
 ---
 
 ## Tech Stack
+
+<div align="center">
 
 **Languages & Frameworks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Messaging & Architecture**
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0081CB?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0288D1?style=for-the-badge&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![OData V4](https://img.shields.io/badge/OData_V4-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OData V4](https://img.shields.io/badge/OData_V4-E6003A?style=for-the-badge&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **SAP Ecosystem**
 
-![SAP CAP](https://img.shields.io/badge/SAP_CAP-0070F2?style=for-the-badge&logo=sap&logoColor=white)
-![SAP UI5](https://img.shields.io/badge/SAP_UI5-0070F2?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+**DSA & Problem Solving**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Data Structures](https://img.shields.io/badge/Data_Structures-8B0000?style=for-the-badge&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge&logoColor=white)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-6A0DAD?style=for-the-badge&logoColor=white)
 
 **Tools**
 
@@ -77,12 +88,51 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anoop-pande-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=0FAAFF&icon_color=6DB33F&text_color=ffffff" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pande-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FAAFF&text_color=ffffff&langs_count=8" height="180px"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anoop-pande-23&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FAAFF&ring=6DB33F&fire=FF6F00&currStreakLabel=0FAAFF&sideLabels=ffffff&dates=ffffff" width="60%"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anoop-pande-23&theme=tokyo-night&bg_color=0D1117&color=0FAAFF&line=6DB33F&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anoop-pande-23&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=anoop-pande-23&color=0077B5&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0FAAFF&height=120&section=footer" width="100%"/>
 
 </div>
