@@ -90,7 +90,8 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anoop-pande-23&theme=tokyonight&hide_border=true&background=0D1117&stroke=0FAAFF&ring=6DB33F&fire=FF6F00&currStreakLabel=0FAAFF&sideLabels=ffffff&dates=ffffff" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anoop-pande-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FAAFF&icon_color=6DB33F&text_color=ffffff&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-pande-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0FAAFF&text_color=ffffff" width="38%"/>
 
 </div>
 
@@ -100,7 +101,7 @@ I'm currently an **Associate Software Engineer at SAP Labs India**, working at t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anoop-pande-23&theme=tokyo-night&bg_color=0D1117&color=0FAAFF&line=6DB33F&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anoop-pande-23&bg_color=0D1117&color=0FAAFF&line=6DB33F&point=58A6FF&area=true&area_color=0FAAFF&hide_border=true" width="100%"/>
 
 </div>
 
